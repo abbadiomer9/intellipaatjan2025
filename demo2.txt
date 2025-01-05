@@ -1,3 +1,4 @@
 example file.
 second line
 third line updated
+fourth line updated
